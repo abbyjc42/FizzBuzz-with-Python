@@ -17,8 +17,8 @@ while number <=100:
         else:
             print("Fizz")
     else:
-        print(i)
-    i = i+ 1
+        print(number)
+    number = number+ 1
 
 # Note: Given the simplicity of the assignment and the requirement to use 3 branches, the code here
 # was written as it was in order to give myself a baseline to improve on.
